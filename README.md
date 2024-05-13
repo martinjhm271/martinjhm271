@@ -3,9 +3,7 @@
   * Fullstack developer
   * Keen Learner
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinjhm271&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinjhm271&layout=compact&hide=Java,PowerShell&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinjhm271&layout=compact&show_icons=true&theme=radical)
 
 I'm a software engineer with 4+ years of software development experience using multiple languages and frameworks as `Elixir`, `Phoenix`, `Java`, `Python`, `Javascript`, `SQL`, `Angular`, `React` and `NodeJS`. I describe myself as a goal and team oriented worker.
 
